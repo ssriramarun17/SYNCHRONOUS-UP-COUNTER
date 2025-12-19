@@ -34,7 +34,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
+Developed by:SRIRAM ARUN RegisterNumber:25016000
 */
 
 **RTL LOGIC UP COUNTER**
@@ -44,3 +44,11 @@ Developed by: RegisterNumber:
 **TRUTH TABLE**
 
 **RESULTS**
+![rtlviewer(i) ex11](https://github.com/user-attachments/assets/852de8b5-5742-4a62-9ec7-4e0858227ae8)
+![wavefrom(i) ex11](https://github.com/user-attachments/assets/bc0e623b-3afe-4d9c-8fd7-c5143a0e2a9d)
+![rtlviewer (ii) ex 11](https://github.com/user-attachments/assets/ed3d485f-8d06-4c1a-8125-f58805af5346)
+![waveform (ii) ex11](https://github.com/user-attachments/assets/f97d3ce8-0dcc-46bd-ad5e-732181a15ef9)
+
+
+
+
